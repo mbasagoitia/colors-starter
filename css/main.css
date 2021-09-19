@@ -63,6 +63,10 @@ footer {
     background-color: aquamarine;
   }
 
+  .col-3 {
+    width: 50%;
+  }
+
   #column-1 {
     background-color: forestgreen;
   }
@@ -87,6 +91,10 @@ footer {
   header {
     background-color: lightblue;
   }
+
+.col-3 {
+  width: 30%;
+}
 
   #column-1 {
     background-color: darkcyan;
